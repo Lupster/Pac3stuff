@@ -1,0 +1,74 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["URL"] = "https://dl.dropboxusercontent.com/s/46wpjg5gpna1ng9/SFM_-A-challenger-approaches.ogg?dl=1",
+						["ClassName"] = "ogg",
+						["Name"] = "sfm -a-challenger-approaches",
+						["UniqueID"] = "372378851",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3724067091",
+				["Event"] = "is_flashlight_on",
+				["EditorExpand"] = true,
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "1196489784",
+		["EditorExpand"] = true,
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://dl.dropboxusercontent.com/s/zime0b1cfrphwq4/A%20Challenger%20Aproaches.txt?dl",
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "319157318",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "2730402204",
+						["AffectChildren"] = true,
+						["Expression"] = "(floor((min(7.5,timeex()))/7.5)*(-7.5))+7.5",
+						["ClassName"] = "proxy",
+						["VariableName"] = "Hide",
+					},
+				},
+			},
+			["self"] = {
+				["AffectChildrenOnly"] = true,
+				["ClassName"] = "event",
+				["Invert"] = true,
+				["Event"] = "is_flashlight_on",
+				["UniqueID"] = "955429739",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3346284818",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,158 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Max"] = 0.093,
+								["ClassName"] = "proxy",
+								["UniqueID"] = "4234710740",
+								["Axis"] = "y",
+								["Input"] = "owner_armor",
+								["Function"] = "none",
+								["VariableName"] = "Scale",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, 2.2000000476837, -0.42199999094009),
+						["Fullbright"] = true,
+						["Scale"] = Vector(0.10000000149012, 0.046500001102686, 0.30000001192093),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Angles"] = Angle(-90, 90, 0),
+						["Material"] = "models/debug/debugwhite",
+						["Color"] = Vector(255, 191, 0),
+						["Bone"] = "",
+						["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+						["UniqueID"] = "3048295711",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["Outline"] = 0.6,
+						["UniqueID"] = "3040112053",
+						["Size"] = 0.45,
+						["Angles"] = Angle(0, 180, 0),
+						["OutlineColor"] = Vector(0, 0, 0),
+						["Position"] = Vector(36.23681640625, 1.6650390625, -0.000732421875),
+						["Text"] = "Armor:",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "text",
+								["Outline"] = 0.6,
+								["UniqueID"] = "636029509",
+								["Size"] = 0.55,
+								["Angles"] = Angle(0, 90, 0),
+								["OutlineColor"] = Vector(0, 0, 0),
+								["Position"] = Vector(-8, -4, 0),
+								["Text"] = "Level 69",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "text",
+								["Outline"] = 0.6,
+								["UniqueID"] = "2923272671",
+								["Size"] = 0.55,
+								["Angles"] = Angle(0, 90, 0),
+								["OutlineColor"] = Vector(0, 0, 0),
+								["Position"] = Vector(-8, -44, 0),
+								["Text"] = "Lupster",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 90, 0),
+						["Position"] = Vector(-23, 0, 0),
+						["ClassName"] = "model",
+						["Size"] = 0,
+						["EditorExpand"] = true,
+						["Model"] = "models/pac/default.mdl",
+						["UniqueID"] = "2142934315",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Max"] = 0.093,
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1102981657",
+								["Axis"] = "y",
+								["Input"] = "owner_health",
+								["Function"] = "none",
+								["VariableName"] = "Scale",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0, -2.0999999046326, -0.42199999094009),
+						["Fullbright"] = true,
+						["Scale"] = Vector(0.10000000149012, 4.6964998245239, 0.30000001192093),
+						["EditorExpand"] = true,
+						["ClassName"] = "model",
+						["Angles"] = Angle(-90, 90, 0),
+						["Material"] = "models/debug/debugwhite",
+						["Color"] = Vector(0, 255, 63),
+						["Bone"] = "",
+						["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+						["UniqueID"] = "2491056483",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "text",
+						["Outline"] = 0.6,
+						["UniqueID"] = "1074685362",
+						["Size"] = 0.45,
+						["Angles"] = Angle(0, 180, 0),
+						["OutlineColor"] = Vector(0, 0, 0),
+						["Position"] = Vector(32.861083984375, -2.634765625, -0.001708984375),
+						["Text"] = "HP:",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3011714687",
+				["Material"] = "models/debug/debugwhite",
+				["EditorExpand"] = true,
+				["Scale"] = Vector(1.2000000476837, 0.20000000298023, 0),
+				["Position"] = Vector(0, 0, 80),
+				["ClassName"] = "model",
+				["Angles"] = Angle(0, -90, -90),
+				["AimPartName"] = "LOCALEYES_YAW",
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "",
+				["Model"] = "models/hunter/plates/plate1x1.mdl",
+				["Fullbright"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3127196671",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
